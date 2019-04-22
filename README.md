@@ -1,4 +1,4 @@
-###Yapılacaklar
+### Yapılacaklar
 * Servis yapan bir sistemin yeterliliğini ölçmek için simülasyon yapacağız.
 * Interarrival zamanları rastgele.
 * Müşteriler bir bir geliyor.
