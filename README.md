@@ -12,6 +12,7 @@ bul.
 * Verinin exponential bir dağılımdan gelip gelmediğini görmek için QQ-plot çizdir.
 * Interarrival zamanlarına karşı gözlem zamanlarını plot et. Bir pattern var mı? Görsel olarak verinin stationary olup olmadığını incele.
 * Veri autocorrelated mı test et. Lag 1 ve lag 2 farklarını plot et. Lag 1 ve lag 2 arasındaki correlasyonu bul ve raporla. Sonuçları yorumla.
+
 **Araçlar**:
 * Excel yeterli.
 * QQ-plot ları çizerken nasıl çalıştığını anlamak önemli.
